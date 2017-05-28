@@ -1,0 +1,14 @@
+{
+    "name": "goodnesskay/laravel-moneywave",
+    "description": "A Laravel package that helps in payment handling with Moneywave",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Goodness Toluwanimi Kayode",
+            "email": "gtkbrain@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
